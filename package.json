@@ -1,0 +1,40 @@
+{
+  "name": "shivanshyadav.com",
+  "version": "1.0.0",
+  "description": "OpenShift Sample Application",
+  "keywords": [
+    "OpenShift",
+    "Node.js",
+    "application",
+    "openshift",
+    "raman",
+    "web designer",
+    "full stack developer",
+    "full stack designer",
+    "angular"
+  ],
+  "author": {
+    "name": "Shivansh Yadav",
+    "email": "shivanshyadav00@gmail.com",
+    "url": "http://shivanshyadav.com"
+  },
+  "homepage": "http://shivanshyadav.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/programmer-nazi"
+  },
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {
+    "express": "~3.4.4",
+    "gulp-livereload": "^3.8.1"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^3.1.0"
+  },
+  "bundleDependencies": [],
+  "private": true,
+  "main": "server.js"
+}

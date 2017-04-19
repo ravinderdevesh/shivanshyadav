@@ -1,0 +1,23 @@
+{
+  "name": "My website",
+  "version": "0.0.1",
+  "authors": [
+    "Shivansh Yadav <shivanshyadav00@gmail.com>"
+  ],
+  "main": "index.html",
+  "keywords": [
+    
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularfire": "~1.1.4"
+  }
+}
